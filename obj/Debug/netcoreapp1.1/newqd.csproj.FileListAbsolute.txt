@@ -1,0 +1,8 @@
+C:\Users\Alan Weber\Desktop\teacher\apprenti\csharp\lectures\wk3\demos\quotingdojo\newqd\bin\Debug\netcoreapp1.1\newqd.deps.json
+C:\Users\Alan Weber\Desktop\teacher\apprenti\csharp\lectures\wk3\demos\quotingdojo\newqd\bin\Debug\netcoreapp1.1\newqd.runtimeconfig.json
+C:\Users\Alan Weber\Desktop\teacher\apprenti\csharp\lectures\wk3\demos\quotingdojo\newqd\bin\Debug\netcoreapp1.1\newqd.runtimeconfig.dev.json
+C:\Users\Alan Weber\Desktop\teacher\apprenti\csharp\lectures\wk3\demos\quotingdojo\newqd\bin\Debug\netcoreapp1.1\newqd.dll
+C:\Users\Alan Weber\Desktop\teacher\apprenti\csharp\lectures\wk3\demos\quotingdojo\newqd\bin\Debug\netcoreapp1.1\newqd.pdb
+C:\Users\Alan Weber\Desktop\teacher\apprenti\csharp\lectures\wk3\demos\quotingdojo\newqd\obj\Debug\netcoreapp1.1\newqd.AssemblyInfo.cs
+C:\Users\Alan Weber\Desktop\teacher\apprenti\csharp\lectures\wk3\demos\quotingdojo\newqd\obj\Debug\netcoreapp1.1\newqd.dll
+C:\Users\Alan Weber\Desktop\teacher\apprenti\csharp\lectures\wk3\demos\quotingdojo\newqd\obj\Debug\netcoreapp1.1\newqd.pdb
